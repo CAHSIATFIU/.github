@@ -7,8 +7,8 @@
   **Building community and creating opportunities for students interested in computing research**
   
   [![Website](https://img.shields.io/badge/Website-cahsiatfiu.vercel.app-003057?style=for-the-badge&logo=vercel)](https://cahsiatfiu.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Us-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/code-crunch-club)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://forms.gle/sGrrahboTvzkLtGf9)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Us-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/cahsi-at-fiu-club)
+  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSdyNQCvXIRRWOSmLvwT2jzM8apkmuC7Hp1J-knhPUHnC8DRmA/viewform?usp=dialog)
   [![Hack University](https://img.shields.io/badge/Hack%20University-Visit%20Portal-10b981?style=for-the-badge&logo=graduation-cap)](https://hack-university.vercel.app/)
 </div>
 
@@ -215,7 +215,7 @@ Develop leadership skills and build an impressive portfolio
 ## 🤝 How to Get Involved
 
 ### 🎯 **For Students**
-1. **📝 [Join CAHSI at FIU](https://forms.gle/sGrrahboTvzkLtGf9)** - Fill out our membership form
+1. **📝 [Join CAHSI at FIU](https://docs.google.com/forms/d/e/1FAIpQLSdyNQCvXIRRWOSmLvwT2jzM8apkmuC7Hp1J-knhPUHnC8DRmA/viewform?usp=dialog)** - Fill out our membership form
 2. **💬 Connect** - Join our Discord and GroupMe communities
 3. **📅 Participate** - Attend our workshops, hackathons, and networking events
 4. **🔬 Research** - Get involved in computing research projects
@@ -241,14 +241,14 @@ Develop leadership skills and build an impressive portfolio
 
 ### 🌐 **Digital Presence**
 [![Website](https://img.shields.io/badge/🌍_Website-cahsiatfiu.vercel.app-003057?style=flat-square)](https://cahsiatfiu.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-CAHSI_at_FIU-0A66C2?style=flat-square)](https://www.linkedin.com/company/code-crunch-club)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@cahsiatfiu-E4405F?style=flat-square)](https://www.instagram.com/codecrunchclub/)
-[![Discord](https://img.shields.io/badge/💬_Discord-Join_Server-5865F2?style=flat-square)](https://forms.gle/sGrrahboTvzkLtGf9)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-CAHSI_at_FIU-0A66C2?style=flat-square)](https://www.linkedin.com/company/cahsi-at-fiu-club)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@cahsiatfiu-E4405F?style=flat-square)](https://www.instagram.com/cahsiatfiu/)
+[![Discord](https://img.shields.io/badge/💬_Discord-Join_Server-5865F2?style=flat-square)](https://docs.google.com/forms/d/e/1FAIpQLSdyNQCvXIRRWOSmLvwT2jzM8apkmuC7Hp1J-knhPUHnC8DRmA/viewform?usp=dialog)
 
 ### 🏛️ **National CAHSI Network**
 [![National Website](https://img.shields.io/badge/🌎_National_CAHSI-cahsi.utep.edu-B6862C?style=flat-square)](https://cahsi.utep.edu/)
-[![Facebook](https://img.shields.io/badge/📘_Facebook-CAHSIUSA-1877F2?style=flat-square)](https://www.facebook.com/CAHSIUSA/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-National_CAHSI-0A66C2?style=flat-square)](https://www.linkedin.com/company/computing-alliance-of-hispanic-serving-institutions-cahsi-/)
+[![Facebook](https://img.shields.io/badge/📘_Facebook-CAHSIUSA-1877F2?style=flat-square)](https://www.facebook.com/cahsialliance)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-National_CAHSI-0A66C2?style=flat-square)](https://www.linkedin.com/company/cahsialliance)
 
 ### 📧 **Contact Information**
 📍 **Location**: Florida International University, Miami, FL  
