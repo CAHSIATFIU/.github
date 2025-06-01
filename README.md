@@ -243,7 +243,9 @@ Develop leadership skills and build an impressive portfolio
 [![Website](https://img.shields.io/badge/🌍_Website-cahsiatfiu.vercel.app-003057?style=flat-square)](https://cahsiatfiu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-CAHSI_at_FIU-0A66C2?style=flat-square)](https://www.linkedin.com/company/cahsi-at-fiu-club)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@cahsiatfiu-E4405F?style=flat-square)](https://www.instagram.com/cahsiatfiu/)
-[![Discord](https://img.shields.io/badge/💬_Discord-Join_Server-5865F2?style=flat-square)](https://docs.google.com/forms/d/e/1FAIpQLSdyNQCvXIRRWOSmLvwT2jzM8apkmuC7Hp1J-knhPUHnC8DRmA/viewform?usp=dialog)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-CAHSIATFIU-181717?style=flat-square)](https://github.com/CAHSIATFIU)
+[![YouTube](https://img.shields.io/badge/🎥_YouTube-@CAHSIatFIU-FF0000?style=flat-square)](https://www.youtube.com/@CAHSIatFIU)
+[![Events](https://img.shields.io/badge/🎪_Events-lu.ma/cahsiatfiu-FF6B35?style=flat-square)](https://lu.ma/cahsiatfiu)
 
 ### 🏛️ **National CAHSI Network**
 [![National Website](https://img.shields.io/badge/🌎_National_CAHSI-cahsi.utep.edu-B6862C?style=flat-square)](https://cahsi.utep.edu/)
