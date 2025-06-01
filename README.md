@@ -8,7 +8,7 @@
   
   [![Website](https://img.shields.io/badge/Website-cahsiatfiu.vercel.app-003057?style=for-the-badge&logo=vercel)](https://cahsiatfiu.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Us-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/cahsi-at-fiu-club)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSdyNQCvXIRRWOSmLvwT2jzM8apkmuC7Hp1J-knhPUHnC8DRmA/viewform?usp=dialog)
+  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://cahsiatfiu.vercel.app/community-access.html)
   [![Hack University](https://img.shields.io/badge/Hack%20University-Visit%20Portal-10b981?style=for-the-badge&logo=graduation-cap)](https://hack-university.vercel.app/)
 </div>
 
@@ -104,7 +104,7 @@ Perfect for entrepreneurs and business students - **no coding required!**
 ### 🤝 **How to Join**
 **Membership is FREE** and open to students from any major and any university!
 
-1. 📝 **Fill out our [membership form](https://forms.gle/sGrrahboTvzkLtGf9)**
+1. 📝 **Fill out our [membership form](https://docs.google.com/forms/d/e/1FAIpQLSdyNQCvXIRRWOSmLvwT2jzM8apkmuC7Hp1J-knhPUHnC8DRmA/viewform?usp=dialog)**
 2. 💬 **Join our community events**
 3. 🎉 **Start participating in workshops and hackathons**
 
@@ -261,19 +261,7 @@ Develop leadership skills and build an impressive portfolio
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CAHSI-at-FIU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CAHSI-at-FIU&layout=compact&theme=tokyonight)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=CAHSI-at-FIU&theme=tokyo-night)
-
-</div>
-
----
 
 ## 📜 Code of Conduct
 
